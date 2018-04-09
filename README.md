@@ -1,7 +1,9 @@
- ## **HACKATHON: "MARVEL VS DC COMICS"**
+## **HACKATHON: "MARVEL VS DC COMICS"**
 
- ## **Desarollo  del proyecto**
- 
+![Planificaión](assets/images/fondo.png)
+
+## **Desarollo  del proyecto**
+
 
 Se realizó una lluvia de ideas para ver que tema  se podría realizar, Una  vez definido  se empezó a indagar y buscar todo la información referente, para identificar que el tema era  viable.
 
@@ -36,7 +38,7 @@ Finalmente el usuario se estará yendo con algo nuevo aprendido referente a la p
   * Lilliam Haro
   * Nataly Otero
   * Maria Teresa Ruiz
-          
+
 
 ## **Herramientas utilizadas**
   * JQUERY
