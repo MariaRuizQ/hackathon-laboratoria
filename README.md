@@ -1,6 +1,6 @@
 ## **HACKATHON: "MARVEL VS DC COMICS"**
 
-![Planificaión](assets/images/fondo.png)
+![fondo](https://user-images.githubusercontent.com/32652805/38506621-fe7fb35a-3bdf-11e8-9d8b-cc65b42803fb.png)
 
 ## **Desarollo  del proyecto**
 
